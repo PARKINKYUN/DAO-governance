@@ -53,5 +53,3 @@ To conduct Governance voting, you need to deploy five contracts in the following
 6. After the voting period, the results are checked to see if they meet the "quorum". If the proposal is successful, the proposalId is sent to the Timelock contract to wait for the "timelock" period.
 7. After the "timelock" period, anyone can execute the proposal using the execute function.
 
-
-# presented by SOCIALINFRATECH
